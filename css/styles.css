@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #316390;
+    background-color: #CFB9B9;
 }
 
 .resume-main {
@@ -51,5 +51,5 @@ body {
 }
 
 .language-level .language-progress {
-	background-color: #78BCF0 !important;
+	background-color: #CFB9B9 !important;
 }
