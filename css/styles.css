@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #316390;
 }
 
 .resume-main {
@@ -28,7 +28,7 @@ body {
 /* Styles for lists in the document */
 
 .biography-details li::before, .skill-list li::before {
-	content: ">";
+	content: "✽";
 	font-weight: 800;
 	display: inline-block;
 	width: 1em;
@@ -48,4 +48,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.language-level .language-progress {
+	background-color: #78BCF0 !important;
 }
