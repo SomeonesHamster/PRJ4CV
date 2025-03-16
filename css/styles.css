@@ -41,9 +41,8 @@ h5 {
 }
 
 h6 {
-	  font-family: "Lexend", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
+	  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
   font-style: normal;
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
